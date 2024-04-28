@@ -1,0 +1,6 @@
+@CarAuctionSystem.API_HostAddress = http://localhost:5066
+
+GET {{CarAuctionSystem.API_HostAddress}}/inventory/search
+Accept: application/json
+
+###
